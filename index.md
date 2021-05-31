@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Global Warming per punti"
+title: "Global Warming"
 ---
 
 # IL GLOBAL WARMING 
