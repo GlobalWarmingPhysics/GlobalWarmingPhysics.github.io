@@ -1,5 +1,6 @@
 # IL GLOBAL WARMING 
-### per punti
+### PER PUNTI: 
+
 
 
 - [I gas serra: concentrazione nell'atmosfera e riscaldamento globale.](gas_serra.md)
