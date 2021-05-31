@@ -1,5 +1,4 @@
 # IL GLOBAL WARMING 
-
 ### per punti
 
 
