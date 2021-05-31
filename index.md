@@ -3,8 +3,7 @@ layout: home
 title: "Global Warming"
 ---
 
-# IL GLOBAL WARMING 
-### PER PUNTI: 
+# Il Global Warming per punti: 
 
 
 
