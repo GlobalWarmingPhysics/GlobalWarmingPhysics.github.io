@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Global Warming per punti"
+---
+
 # IL GLOBAL WARMING 
 ### PER PUNTI: 
 
