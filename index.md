@@ -11,3 +11,5 @@ title: "Global Warming"
 - [Processi di cattura del carbonio e costi: il CCUS.](ccus.md)
 - [Accordi internazionali: COP per tappe.](cop.md)
 - [Scenari futuri.](scenari_futuri.md)
+
+###### [Fonti](fonti.md)
