@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tappe COP
+title: "COP per tappe"
 ---
 #### [Home](index.md)
 ## Accordi Internazionali: COP per tappe - la strada percorsa fino ad oggi
