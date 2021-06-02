@@ -27,3 +27,12 @@ I serbatoi naturali della CO<sub>2</sub> sono gli oceani, i sedimenti fossili, l
 
 In particolare gli oceani hanno un ruolo fondamentale nel bilancio del carbonio: contengono infatti una quantità enorme di CO<sub>2</sub>, fino al 79% di quella naturale.
 L'incremento di temperatura dell'acqua diminuisce la solubilità del biossido di carbonio, pertanto l'aumento della temperatura degli oceani sposta CO<sub>2</sub> dal mare all'atmosfera, mentre una diminuzione fa avvenire il contrario. Se la concentrazione tendesse ad abbassarsi, gli oceani potrebbero svolgere un ruolo di equilibratori, rilasciando anidride carbonica. Questo *bilancio naturale*, in assenza di attività antropica, è sempre in pareggio (approssimativamente). Tuttavia per quanto piccole rispetto al totale, le emissione antropiche sono sufficienti a **squilibrare l'intero sistema**.
+
+Le emissioni legate alle attività umane sono dovute all'uso di energia fossile, ossia petrolio, carbone e gas naturale.
+Il contributo della deforestazione è peraltro molto incerto; le stime indicano valori compresi tra un massimo di 2 ad un minimo di 0.6 Gt/anno (un miliardo di tonnellate per anno). 
+
+
+### GWP - Global Warming Potential (potenziale di riscaldamento globale)
+Il Global Warming Potential esprime il contributo all'effetto serra di un gas relativamente all'effetto della CO<sub>2</sub>, il cui potenziale di riferimento è pari a 1. Ogni valore di GWP è calcolato per uno specifico intervallo di tempo (in genere 20, 100 o 500 anni).
+
+
