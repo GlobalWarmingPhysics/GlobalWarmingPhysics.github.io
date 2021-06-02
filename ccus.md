@@ -13,7 +13,7 @@ Esistono sostanzialmente tre tipologie diverse per la cattura del diossido di ca
 2. **Pre Combustione**: il combustibile viene convertito prima della combustione in una mistura di idrogeno e anidride carbonica usando un processo chiamato *glassificazione*. La CO<sub>2</sub> può essere poi trasportata e stoccata mentre l'idrogeno, miscelato con l'aria, può essere utilizzato come combustibile per la produzione di elettricità  o eventualmente per alimentare vetture ad idrogeno. 
 3. **Ossicombustione** o **Combustione in Ossigeno**: questo processo prevede l'utilizzo di ossigeno puro in camera di combustione. Questo tipo di combustione produce principalmente vapore e anidride carbonica concentrata, più semplice da trattare e inviare allo stoccaggio.
 
-![CCUS](ccus.png "modalità di cattura")
+<img src="ccus.png" alt="modalità di cattura" width="700"/>
 
 A questi si affiancano sistemi di cattura e sequestro dell'anidride carbonica presente in ambiente, note come Carbon Dioxide Removal (CDR):
 
