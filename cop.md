@@ -30,3 +30,5 @@ La 18° sessione negoziale della Conferenza riesce ad assicurare una seconda sta
 
 ### 2015 - COP di Parigi
 La ventunesima Conferenza delle Parti di Parigi porta a casa il primo grande risultato, ossia **un patto climatico globale e condiviso**. L’obiettivo inderogabile è quello di mantenere l’aumento della temperatura ***«ben al di sotto dei 2 °C»***, con la raccomandazione a fare di più (per uno scenario sotto 1,5 ° C). Una delle disposizioni chiave dell’accordo è la creazione di un **meccanismo di revisione per gli impegni** dei vari paesi: avrà luogo ogni cinque anni, nell’ottica di aumentarne progressivamente l’ambizione, ma per ora nessuna data d’inizio è stata fissata.
+
+<img src="cop_parigi.jpg" alt="COP Parigi 2015" width="600"/>
