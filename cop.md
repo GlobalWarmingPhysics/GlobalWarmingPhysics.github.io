@@ -3,7 +3,8 @@ layout: default
 title: "COP per tappe"
 ---
 #### [Home](index.md)
-## Accordi Internazionali: COP per tappe - la strada percorsa fino ad oggi
+## Accordi Internazionali: COP per tappe
+## La strada percorsa fino ad oggi
 Era il **1995** l’anno in cui si tenne la prima Conferenza delle parti della **Convezione Onu sul climate change (UNFCCC)**, il primo trattato ambientale internazionale ad occuparsi del riscaldamento globale.
 
 Da allora, oggi i vertici dell’UNFCCC hanno scritto la storia della lotta al climate change, tra successi e fallimenti.
