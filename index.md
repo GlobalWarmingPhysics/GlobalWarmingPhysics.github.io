@@ -13,3 +13,5 @@ title: "Global Warming"
 - [Scenari futuri.](scenari_futuri.md)
 
 ###### [Fonti](fonti.md)
+
+#### Ricerca di Tampella Giacomo - 3BSA - Liceo Scientifico St. G. Ricci Curbastro, Lugo, RA
