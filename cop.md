@@ -13,5 +13,5 @@ La Conferenza delle Parti dell'UNFCCC si incontrò per la prima volta a Berlino 
 
 ### 1997 - COP 3 di Kyoto
 Dopo due anni e mezzo di intense negoziazioni arriva la prima e vera svolta: il **Protocollo di Kyoto**, il primo trattato al mondo di riduezione delle emissioni di gas ad effetto serra. Gli Stati Uniti si rifiutarono tassativamente di ratificare l'atto che stabiliva *impegni di riduzione delle emissioni per i soli Paesi Sviluppati*. Gli impegni prevedono una prima fase di riduzione delle emissioni relativamente al periodo 2008-2012 rispetto ai livelli del 1990. Nel 2011 il Canada ad un solo anno dal termine ultimo, esce dal Protocollo.
-![linee_operative_Kyoto](linee_operative_Kyoto.png "Kyoto-obiettivi")
 
+<img src="linee_operative_Kyoto.png" alt="Kyoto-obiettivi" width="600"/>
