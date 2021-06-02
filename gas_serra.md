@@ -35,4 +35,4 @@ Il contributo della deforestazione è peraltro molto incerto; le stime indicano 
 ### GWP - Global Warming Potential (potenziale di riscaldamento globale)
 Il Global Warming Potential esprime il contributo all'effetto serra di un gas relativamente all'effetto della CO<sub>2</sub>, il cui potenziale di riferimento è pari a 1. Ogni valore di GWP è calcolato per uno specifico intervallo di tempo (in genere 20, 100 o 500 anni).
 
-
+[GWP examples](unnamed.png "GWP examples")
